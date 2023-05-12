@@ -38,10 +38,9 @@ pip install -r requirements.txt
 ```
 
 ## Landing Page
-![Landing page](https://github.com/Vishal2546/Machine-Learning-Projects/assets/110054448/1441dbe9-e996-4919-865e-62b5e6749f1e)
+![Landing page](https://github.com/Vishal2546/Machine-Learning-Projects/assets/110054448/7e8c7c50-fcd0-4bf0-93a4-52fe719466ad)
 
-![2 page](https://github.com/Vishal2546/Machine-Learning-Projects/assets/110054448/0c436d84-c53a-45fe-afe7-8f2601f46111)
-
+![2 page](https://github.com/Vishal2546/Machine-Learning-Projects/assets/110054448/6ae76b81-09af-4f79-b4fa-30c992a9c6a7)
 
 
 
